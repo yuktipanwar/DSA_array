@@ -1,2 +1,2 @@
 # DSA_questions
-Prating DSA questions
+Practing DSA questions
