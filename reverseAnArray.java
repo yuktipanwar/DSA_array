@@ -1,3 +1,5 @@
+//Reverse an array by swapping the elements. 
+
 package lbDsaSheet;
 import java.util.Arrays;
 
