@@ -16,9 +16,9 @@ import java.util.*;
 //METHOD #1: Find all the subarrays. The number of all possible subarrays of an array of size N is N * (N + 11/21
 //TC= O(n^3), SC=O(1)
 
-//METHOD #2: while summing the subarrays we can maintain a running sum var to optimise time complexity.
+//METHOD #2: Brute Force
+//while summing the subarrays we can maintain a running sum var to optimise time complexity.
 //TC= O(n^2), SC=O(1)
-
 
 public class largestSubarraySum {
     static void maxSubArraySum(int nums[], int size)
